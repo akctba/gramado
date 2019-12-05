@@ -1,0 +1,29 @@
+#body{
+    margin-top: 70px;
+    background-image: url(./gramado-Image.jpg);
+    background-size: cover;
+    color:white;
+}
+.intro{
+    text-align: center;
+    font-size: 2em;
+}
+.maintitle{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    clear: both;
+}
+.maintitle h1{
+    font-size: 3em;
+}
+header h1{
+    float: left;
+}
+nav{
+    float: right;
+}
+li{
+    float: left;
+    padding: 20px;
+}
