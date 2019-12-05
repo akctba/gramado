@@ -1,0 +1,15 @@
+body{
+    background-image: url(./gramado-Image.jpg);
+    background-size: cover;
+    color:white;
+
+}
+.intro{
+    text-align: center;
+    font-size: 2em;
+}
+.maintitle{
+    color: white;
+    text-align: center;
+    font-size: 5em;
+}
