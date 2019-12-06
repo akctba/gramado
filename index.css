@@ -1,15 +1,12 @@
-#body{
-    margin-top: 70px;
-    background-image: url(./gramado-Image.jpg);
+body{
+    background-image: url(./gramado-city.jpg);
     background-size: cover;
     color:white;
 }
-.intro{
-    text-align: center;
-    font-size: 2em;
+section{
+    margin-top: 50px;
 }
 .maintitle{
-    color: white;
     text-align: center;
     font-size: 2em;
     clear: both;
@@ -25,5 +22,8 @@ nav{
 }
 li{
     float: left;
-    padding: 20px;
+    margin: 20px;
+}
+footer{
+    font-size: 1.5em;
 }
